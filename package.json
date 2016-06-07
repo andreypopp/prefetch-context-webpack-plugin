@@ -1,0 +1,35 @@
+{
+  "name": "prefetch-context-webpack-plugin",
+  "version": "0.0.0",
+  "description": "Webpack plugin for prefetching all files within the context",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "eslintConfig": {
+    "extends": "prometheusresearch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreypopp/prefetch-context-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreypopp/prefetch-context-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/andreypopp/prefetch-context-webpack-plugin#readme",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-core": "^6.9.1",
+    "babel-preset-prometheusresearch": "^0.1.0",
+    "eslint": "^2.11.1",
+    "eslint-config-prometheusresearch": "^0.2.0",
+    "flow-bin": "^0.26.0",
+    "webpack": "^1.13.1"
+  }
+}
