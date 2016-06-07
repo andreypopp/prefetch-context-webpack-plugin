@@ -1,6 +1,6 @@
 {
   "name": "prefetch-context-webpack-plugin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Webpack plugin for prefetching all files within the context",
   "main": "lib/index.js",
   "scripts": {
